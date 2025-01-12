@@ -3,9 +3,9 @@
 
 ## Introduction:
 
-- the mobile application for *Android Systems* (v. 4.0 and higher)
+- the Mobile Application for *Android Systems* (v. 4.0 and higher)
 - *Convolutional Neural Networks* used to classificate motion activities
-- [*Smartphone-Based Recognition of Human Activities and Postural Transitions Data Set*](http://archive.ics.uci.edu/ml/datasets/smartphone-based+recognition+of+human+activities+and+postural+transitions) for the training and testing CNN model
+- [*Smartphone-Based Recognition of Human Activities and Postural Transitions Data Set*](http://archive.ics.uci.edu/ml/datasets/smartphone-based+recognition+of+human+activities+and+postural+transitions)
 - real-time inertial signals registration (based on accelerometer and gyroscope)
 
 ## Environment:
@@ -36,11 +36,6 @@ This project has three main steps:
 - Example of the Data Frame with values after the signals processing:
   
 <img src="https://github.com/mivhvl/HAR_Mobile_App/blob/main/img/data.png" title="DATA" alt="DATA" width="500">
-
-- Histogram with obtained data samples:
-
-<img src="https://github.com/mivhvl/HAR_Mobile_App/blob/main/img/test_train_img.png" title="TEST/TRAIN" alt="TEST/TRAIN" width="500">
-
 
 2. [CNN Model Design](https://github.com/mkowalsky97/Human_Activities_Recognition/blob/main/CNN_Model.ipynb)
 
